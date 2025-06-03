@@ -28,6 +28,12 @@ nav ul {
   gap: 1.5rem;
 }
 
+#Carrinho {
+  width: 30px; 
+  height: auto; 
+  vertical-align: middle;
+}
+
 nav a {
   color: white;
   text-decoration: none;
